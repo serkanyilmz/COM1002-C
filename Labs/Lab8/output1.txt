@@ -1,0 +1,4 @@
+Original Array= 5 3 4 3 10 2 11 12 4 6 
+*p1= 12
+*p2= 2
+Sorted Array= 2 3 3 4 4 5 6 10 11 12 

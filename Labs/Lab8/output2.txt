@@ -1,0 +1,4 @@
+Original Array= 2 1 10 3 6 
+*p1= 10
+*p2= 1
+Sorted Array= 1 2 3 6 10 

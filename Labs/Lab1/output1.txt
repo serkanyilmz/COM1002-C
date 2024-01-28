@@ -1,0 +1,3 @@
+The largest point is 60
+The smallest point is 41
+The difference is 19
